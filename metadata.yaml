@@ -1,0 +1,53 @@
+_repo: Clan-Traditions-and-Popular-Tales-of-the-Western-Highlands-and-Islands_67609
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Nutt, Alfred Trübner
+    alias: Nutt, Alfred Trubner
+    birthdate: 1856
+    deathdate: 1910
+    gutenberg_agent_id: '41572'
+    url: http://www.gutenberg.org/2009/agents/41572
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_Nutt
+  compiler:
+    agent_name: Campbell, John Gregorson
+    birthdate: 1836
+    deathdate: 1891
+    gutenberg_agent_id: '50200'
+    url: http://www.gutenberg.org/2009/agents/50200
+    wikipedia: https://en.wikipedia.org/wiki/John_Gregorson_Campbell
+creator:
+  editors:
+  - agent_name: MacIsaac, Duncan
+    gutenberg_agent_id: '54359'
+    url: http://www.gutenberg.org/2009/agents/54359
+  - agent_name: Wallace, Jessie Campbell
+    gutenberg_agent_id: '54358'
+    url: http://www.gutenberg.org/2009/agents/54358
+description: ''
+gutenberg_issued: '2022-03-12'
+identifiers:
+  gutenberg: '67609'
+language: en
+pgterms:marc904: https://archive.org/details/clantraditionspo00campuoft
+pgterms:marc905: 20200328060758campbell
+pgterms:marc906: '1895'
+pgterms:marc907: GB
+production_note: Susan Skinner, Thomas Frost and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United Kingdom :David Nutt,1895.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Waifs and Strays of Celtic Tradition. Argyllshire Series. No. 5
+subjects:
+- !lcsh 'Clans -- Scotland -- Highlands'
+- !lcsh 'Folklore -- Scotland -- Highlands'
+- !lcc 'GR'
+- !lcsh 'Oral tradition -- Scotland -- Highlands'
+- !lcsh 'Highlands (Scotland)'
+- !lcsh 'Civilization, Celtic'
+- GITenberg
+title: Clan Traditions and Popular Tales of the Western Highlands and Islands
+url: http://www.gutenberg.org/ebooks/67609
