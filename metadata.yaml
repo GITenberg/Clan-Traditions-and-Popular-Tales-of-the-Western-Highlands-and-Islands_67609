@@ -16,6 +16,9 @@ contributor:
     gutenberg_agent_id: '50200'
     url: http://www.gutenberg.org/2009/agents/50200
     wikipedia: https://en.wikipedia.org/wiki/John_Gregorson_Campbell
+covers:
+- cover_type: archival
+  image_path: 67609-h/images/cover.jpg
 creator:
   editors:
   - agent_name: MacIsaac, Duncan
@@ -25,6 +28,8 @@ creator:
     gutenberg_agent_id: '54358'
     url: http://www.gutenberg.org/2009/agents/54358
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67609#Clan-Traditions-and-Popular-Tales-of-the-Western-Highlands-and-Islands
 gutenberg_issued: '2022-03-12'
 identifiers:
   gutenberg: '67609'
